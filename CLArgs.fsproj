@@ -6,7 +6,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Content Include="AppSettings.xml" />
         <Compile Include="CommandLineParser.fs" />
         <Compile Include="Program.fs" />
     </ItemGroup>
